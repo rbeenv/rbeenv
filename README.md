@@ -44,7 +44,7 @@ I enjoy working across the stack:
 ## 📫 Let's Connect
 
 - 📧 Email: [ruben.velasco2004@gmail.com](mailto:ruben.velasco2004@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rubenvelascolopez](www.linkedin.com/in/rubenvelascolopez)
+- 💼 LinkedIn: [linkedin.com/in/rubenvelascolopez](https://www.linkedin.com/in/rubenvelascolopez)
 
 ---
 
