@@ -12,7 +12,7 @@ I'm a **Multiplatform Application Development graduate** (DAM), constantly expan
 
 I enjoy working across the stack:
 
-- ⚙️ **Backend:** Java, Spring Boot.  
+- ⚙️ **Backend:** Java, Spring Boot, APX.  
 - 🎨 **Frontend/UI:** JavaFX, WPF, Swing, HTML, CSS, JavaScript.  
 - 🧪 **Testing & QA:** Postman, Cypress, Cucumber.  
 - 🧰 **Databases:** SQL, MongoDB, Redis. 
