@@ -33,6 +33,14 @@ I enjoy working across the stack:
 
 ---
 
+## 🚀 Projects
+
+- 🌐 [CDL Stage](https://www.cdlstage.com) — Personal web project
+- 🏀 [The NBA Chain](https://www.thenbachain.com) — Personal web project
+- 🤖 Built functional **web scrapers** with **JavaScript**
+
+---
+
 ## 🌱 Currently...
 
 - Exploring advanced topics in **AWS**, **Azure**, **JavaScript** and **NoSQL**
